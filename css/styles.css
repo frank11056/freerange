@@ -12,8 +12,12 @@ h1 {
 }
 
 .image-heads {
-  margin-left: 25%;
+  margin-left: 40%;
+  margin-bottom: 25px;
 }
+
 .navbar-brand {
-  font-family: 'Nanum Myeongjo', serif;
+color: gray;
+      font-family: 'Nanum Myeongjo', serif;
+
 }
