@@ -16,3 +16,6 @@ h1 {
     margin-left: 25%;
 
 }
+.navbar-brand {
+  font-family: 'Nanum Myeongjo', serif;
+}
